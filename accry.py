@@ -1,4 +1,4 @@
-## Example 1: Accuracy
+### Example 1: Accuracy
 from sklearn.metrics import accuracy_score
 
 # Actual labels and predicted labels from dataset
