@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const taskText = todoInput.value.trim(); // Get text and remove whitespace
 
         if (taskText === "") {
-            alert("Please enter a task!");
+            alert("please enter a task!");
             return; // Don't add empty tasks
         }
 
